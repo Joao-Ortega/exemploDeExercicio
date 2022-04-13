@@ -1,1 +1,1 @@
-let array = ['java', 'javascript', 'python', 'html', 'css'];
+const array = ['java', 'javascript', 'python', 'html', 'css'];
